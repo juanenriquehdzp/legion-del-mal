@@ -12,3 +12,7 @@ El objetivo es congelar la ciudad de metrópolis
 3. **Acticación del dispositivo**:
 
 4. **Monitoreo del constante**:
+
+5. **Paso 5**:
+
+6. **Paso 6**:
