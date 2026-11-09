@@ -11,3 +11,18 @@
 - Doctor Octopus (Otto Octavius)
 - Venom (Eddie Brock)
 - Sandman (Flint Marko)
+
+## Peliculas de Spiderman
+
+- Spider-Man (2002)
+- Spider-Man 2 (2004)
+- Spider-Man 3 (2007)
+- The Amazing Spider-Man (2012)
+- The Amazing Spider-Man 2 (2014)
+- Spider-Man: Homecoming (2017)
+
+## Conocidos de Spiderman
+
+- Mary Jane Watson
+- Gwen Stacy
+- Aunt May
