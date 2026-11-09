@@ -11,4 +11,3 @@
 - Doctor Octopus (Otto Octavius)
 - Venom (Eddie Brock)
 - Sandman (Flint Marko)
-
