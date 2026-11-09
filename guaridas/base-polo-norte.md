@@ -16,4 +16,3 @@ La Base Polo Norte es una instalación de investigación y operaciones estratég
 - Dormitorios y áreas de recreación para el personal
 - Centro de comunicaciones satelitales
 - Plataforma de lanzamiento para drones y vehículos aéreos no tripulados
-
