@@ -20,3 +20,9 @@
 - The Amazing Spider-Man (2012)
 - The Amazing Spider-Man 2 (2014)
 - Spider-Man: Homecoming (2017)
+
+## Conocidos de Spiderman
+
+- Mary Jane Watson
+- Gwen Stacy
+- Aunt May
