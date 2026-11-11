@@ -26,3 +26,15 @@
 - Mary Jane Watson
 - Gwen Stacy
 - Aunt May
+
+## Poderes y habilidades
+
+- Fuerza sobrehumana: Capaz de levantar objetos pesados y enfrentarse a enemigos más grandes.
+- Agilidad y reflejos mejorados: Puede esquivar ataques y moverse rápidamente en combate
+- Sentido arácnido: Una habilidad que le permite detectar peligros inminentes.
+
+## Debilidades
+
+- Su sentido arácnido puede ser bloqueado por ciertos dispositivos tecnológicos.
+- Su moral y ética lo hacen vulnerable a manipulaciones emocionales.
+- Su identidad secreta es un riesgo constante, ya que sus enemigos podrían usarla en su contra.
