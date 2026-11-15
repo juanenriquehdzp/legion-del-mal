@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Comunicador de la legión
+
+
+on:
+  workflow_dispatch:
+    inputs:
+      villano:
+        descripcion: ¿Que villano envía el mensaje?
+        required: True
+        type: choice
+        options:
+          - Brainiac
+          - Lex Luthor
+          - Joker
+          - Darkseid
+          - Sinestro
+jobs:
+  Transmitir-mensaje:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
