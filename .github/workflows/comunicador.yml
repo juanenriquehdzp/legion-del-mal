@@ -33,7 +33,7 @@ on:
           - dragon
           - ghostbusters
           - cheese
-          - king
+          # - king "No funciona"
 
       Prioridad:
         descripcion: "Nivel de prioridad"
