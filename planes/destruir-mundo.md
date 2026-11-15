@@ -9,3 +9,8 @@ Estos son los planes para destruir el mundo:
 4. Manipular el clima global para causar desastres naturales a gran escala, como huracanes, terremotos y tsunamis.
 5. Controlar los recursos esenciales como el agua y los alimentos, creando escasez y caos en la población mundial.
 6. Difundir propaganda y desinformación para sembrar el miedo y la desconfianza entre las naciones, debilitando la cooperación internacional.
+
+## Plan de escape
+
+- En caso de emergencia, se debe tener un plan de escape bien definido para garantizar la seguridad del equipo y minimizar los riesgos.
+- Todos los miembros del equipo deben estar familiarizados con las rutas de escape y los puntos de reunión designados.

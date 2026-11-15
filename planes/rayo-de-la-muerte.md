@@ -19,3 +19,7 @@ El objetivo de esta misión es activar el Rayo de la Muerte en la Tierra para de
 - **Darkseid**: Líder de la misión y comandante supremo de Apokolips.
 - **Parademonios**: Tropas de asalto encargadas de la infiltración y la protección del Rayo de la Muerte.
 - **Steppenwolf**: Segundo al mando, responsable de la logística y coordinación de las fuerzas en la Tierra.
+
+## Plan de escape
+- En caso de emergencia, se debe tener un plan de escape bien definido para garantizar la seguridad del equipo y minimizar los riesgos.
+- Todos los miembros del equipo deben estar familiarizados con las rutas de escape y los puntos de reunión designados.
