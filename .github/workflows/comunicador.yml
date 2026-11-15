@@ -65,7 +65,7 @@ jobs:
           echo ""
           echo "Fecha de transmisión: $(date -u +"%d-%m-%Y - %H:%M:%S UTC")"
           echo "----------- Mensaje -------------"
-          cowsay -f eyes "${{ inputs.Mensaje}}"
+          cowsay -f ${{ inputs.Cow_character }} "${{ inputs.Mensaje}}"
           echo ""
           echo "---- ${{ inputs.Villano }} ----"
           echo "..."
