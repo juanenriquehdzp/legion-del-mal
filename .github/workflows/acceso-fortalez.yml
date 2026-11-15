@@ -1,7 +1,7 @@
 name: 🌋Acceso a la fortaleza prohibida
 
 on:
-  workflow_distpatch:
+  workflow_dispatch:
 
 jobs:
   acceso-a-la-base:
