@@ -6,8 +6,8 @@ name: Comunicador de la legión
 on:
   workflow_dispatch:
     inputs:
-      villano:
-        descripcion: ¿Que villano envía el mensaje?
+      Villano:
+        descripcion: "¿Que villano envía el mensaje?"
         required: True
         type: choice
         options:
@@ -16,6 +16,23 @@ on:
           - Joker
           - Darkseid
           - Sinestro
+
+      Mensaje:
+        descripcion: "Mensaje para el consejo"
+        required: True
+        type: string
+        default: "La misión fue un éxito"
+
+      Prioridad:
+        descripcion: "Nivel de prioridad"
+        required: True
+        type: choice
+        options:
+          - 🟢 Normal
+          - 🟡 Alta
+          - 🔴 Crítica
+
+
 jobs:
   Transmitir-mensaje:
 
