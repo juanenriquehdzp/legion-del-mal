@@ -39,7 +39,7 @@
 - Su moral y ética lo hacen vulnerable a manipulaciones emocionales.
 - Su identidad secreta es un riesgo constante, ya que sus enemigos podrían usarla en su contra.
 
-## Estrategia recomndada
+## Estrategia recomendada
 
 - Evitar enfrentamientos directos. Utilizar tecnología para neutralizar su sentido arácnido y aprovechar su moral para manipularlo.
 - Si es necesario un enfrentamiento, usar enemigos conocidos como señuelo para distraerlo y capturarlo.
