@@ -19,13 +19,14 @@ on: push
 
 jobs:
     escaneo:
+
         runs-on: ubuntu-latest
-        
+
         steps:
 
             - name: Brainiac accede a la base
             uses: actions/checkout@v4
-
+            
             - name: Escanear planes de la Legión
             run: |
                 echo "🔍 Escaneando planes..."
@@ -35,13 +36,13 @@ jobs:
             - name: Escanear fichas de villanos
             run: |
                 echo "🔍 Escaneando fichas de villanos..."
-                ls vilanos/
+                ls miembros/
                 echo "✅ Fichas verificadas."
 
             - name: Escanear inteligencia sobre héroes
             run: |
                 echo "🔍 Escaneando expedientes de héroes..."
-                ls inteligencia/
+                ls inteligencia/perdedores/
                 echo "✅ Expedientes verificados."
 
             - name: Reporte final
